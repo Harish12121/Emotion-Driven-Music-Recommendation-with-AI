@@ -1,0 +1,21 @@
+/* Your custom styles for the super UI */
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.super-ui {
+    background-color: #f8f8f8;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.spotify-play {
+    margin-top: 20px;
+}
+
+/* Other styles for your UI elements */
+/* Add your custom styles here */
